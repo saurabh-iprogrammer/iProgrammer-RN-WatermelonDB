@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml:2:1-46
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml:2:1-46
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml:2:1-46
+	package
+		ADDED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml:2:11-43
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml:2:1-46
+uses-sdk
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+		ADDED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+		ADDED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/rupeshk/Documents/Update/71_13/fusionapp/node_modules/@nozbe/watermelondb/native/android/src/main/AndroidManifest.xml
